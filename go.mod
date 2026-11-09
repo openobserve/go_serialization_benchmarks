@@ -29,7 +29,7 @@ require (
 	github.com/protolambda/zssz v0.1.1 // indirect
 	github.com/prysmaticlabs/go-bitfield v0.0.0-20190825002834-fb724e897364 // indirect
 	github.com/prysmaticlabs/go-ssz v0.0.0-20190827151743-72881c4223d8
-	github.com/shamaton/msgpack/v2 v2.0.0
+	github.com/shamaton/msgpack/v2 v2.4.1
 	github.com/shamaton/msgpackgen v0.1.1
 	github.com/stretchrcom/testify v1.7.1 // indirect
 	github.com/tinylib/msgp v1.1.0
