@@ -26,11 +26,13 @@ require (
 	github.com/minio/sha256-simd v0.1.0 // indirect
 	github.com/niubaoshu/gotiny v0.0.3
 	github.com/philhofer/fwd v1.0.0 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
 	github.com/protolambda/zssz v0.1.1 // indirect
 	github.com/prysmaticlabs/go-bitfield v0.0.0-20190825002834-fb724e897364 // indirect
 	github.com/prysmaticlabs/go-ssz v0.0.0-20190827151743-72881c4223d8
 	github.com/shamaton/msgpack/v2 v2.0.0
 	github.com/shamaton/msgpackgen v0.1.1
+	github.com/stretchr/testify v1.6.1 // indirect
 	github.com/stretchrcom/testify v1.7.1 // indirect
 	github.com/tinylib/msgp v1.1.0
 	github.com/ugorji/go/codec v1.1.7
@@ -38,8 +40,7 @@ require (
 	github.com/vmihailenco/msgpack/v4 v4.3.0
 	github.com/ymz-ncnk/musgo v0.1.6
 	go.dedis.ch/protobuf v1.0.6
-	go.mongodb.org/mongo-driver v1.5.1
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22 // indirect
+	go.mongodb.org/mongo-driver v1.17.7
 	gopkg.in/linkedin/goavro.v1 v1.0.5
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 	zombiezen.com/go/capnproto2 v2.17.0+incompatible
