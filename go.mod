@@ -39,7 +39,7 @@ require (
 	github.com/ymz-ncnk/musgo v0.1.6
 	go.dedis.ch/protobuf v1.0.6
 	go.mongodb.org/mongo-driver v1.5.1
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22 // indirect
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 	gopkg.in/linkedin/goavro.v1 v1.0.5
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 	zombiezen.com/go/capnproto2 v2.17.0+incompatible
